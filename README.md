@@ -4,8 +4,7 @@ A PHP and MySQL todo list application with user registration, login, profile
 avatars, task priorities, task dates, filtering, task completion, and editable
 notes.
 
-This project was created for the Web Technologies and Programming course at
-university.
+This project was created for the Web Technologies and Programming course at Epoka University.
 
 ## Features
 
