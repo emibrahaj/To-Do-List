@@ -1,0 +1,6 @@
+.codex_tmp_extract/
+
+# Runtime uploads are user-generated. Keep the default avatar only.
+uploads/*
+!uploads/default.png
+!uploads/.gitignore
